@@ -95,6 +95,8 @@ function updateOffer(offerId, updatedOffer, callback) {
         merchant_name,
         merchant_location,
         inclusion_tags,
+        merchant_latitude,
+        merchant_longitude,
         other_tags,
         offer_description,
         rewards_description,
